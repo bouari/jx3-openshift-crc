@@ -14,7 +14,7 @@ spec:
     registry: ghcr.io
   environments:
   - ingress:
-      domain: ""
+      domain: "ocp.linux-lab.net"
       externalDNS: false
       namespaceSubDomain: ""
       tls:
